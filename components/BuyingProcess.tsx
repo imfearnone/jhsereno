@@ -17,7 +17,7 @@ export default function BuyingProcess() {
   return (
     <div className="w-auto p-10 mb-20">
         <div className='flex flex-col items-center pb-20'>
-            <h2 className='text-hoverColor'>WHAT'S THE PROCESS?</h2>
+            <h2 className='text-hoverColor'>WHAT&apos;S THE PROCESS?</h2>
             <h1 className='text-3xl md:text-4xl font-bold'>The Buying Process</h1>
         </div>
 
