@@ -14,7 +14,8 @@ export default function Market() {
         </div>
         <div className="flex flex-col items-center">
             <h2 className="text-lg font-semibold pb-2">Our Online Marketing Strategy</h2>
-            <p className="text-gray-700">​​​​​​​The Bay Area remains one of the world's most sought-after regions to live in, 
+            <p className="text-gray-700">
+                The Bay Area remains one of the world&apos;s most sought-after regions to live in, 
                 and when looking to sell, it is vital that your home be marketed online to audiences locally, nationally, and 
                 internationally.
             </p>

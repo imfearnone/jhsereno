@@ -17,7 +17,7 @@ export default function SellingProcess() {
   return (
     <div className="w-auto p-10">
         <div className='flex flex-col items-center pb-20'>
-            <h2 className='text-hoverColor'>WHAT'S THE PROCESS?</h2>
+            <h2 className='text-hoverColor'>WHAT&apos;S THE PROCESS?</h2>
             <h1 className='text-3xl md:text-4xl font-bold'>The Selling Process</h1>
         </div>
         <motion.div

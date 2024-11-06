@@ -10,7 +10,7 @@ export default function OurPartners() {
     <div className="w-[90%] mb-20">
         <div className="flex flex-col items-center pb-20">
             <h2 className="text-hoverColor">OUR PARTNERS</h2>
-            <h1 className="text-3xl lg:text-4xl font-bold">Let's Meet Our Partners</h1>
+            <h1 className="text-3xl lg:text-4xl font-bold">Let&apos;s Meet Our Partners</h1>
         </div>
 
 
@@ -61,10 +61,10 @@ export default function OurPartners() {
                     than 500 member firms around the world, Our luxury listings are exposed to a vast global audience and reach potential buyers and investors in over 50 countries.
                 </p>
                 <p className="text-gray-700 p-4">
-                    Who's Who in Luxury Real Estate
+                    Who&apos;s Who in Luxury Real Estate
                 </p>
                 <p className="text-gray-700 p-4">
-                    Who’s Who in Luxury Real Estate is a global collection of luxury real estate brokers.
+                    Who&apos;s Who in Luxury Real Estate is a global collection of luxury real estate brokers.
                 </p>
             </div>
 
