@@ -11,6 +11,9 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        hoverColor: '#a29340',
+        sectionColor: '#f3f6fc',
+        footerColor: '#6c6c6c',
       },
     },
   },
